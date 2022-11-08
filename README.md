@@ -17,7 +17,7 @@ Este curso orientado a la solución de problemas específicos en la programació
 
 ## Carpetas
 
-En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (i), y otro que contiene el código en su estado final (f).
+En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
 ### Docente
 
